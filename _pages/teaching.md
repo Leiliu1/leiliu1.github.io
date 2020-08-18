@@ -8,7 +8,12 @@ author_profile: true
 
 ## Instructor
 
-
+- Fall 2020 LIN 405 Writing in Linguistics
+- Summer 2020 WAE 194 Advanced Writing Academic English
+- Spring 2020 WAE 194 Advanced Writing Academic English
+- Fall 2019 LIN 542 Bilingualism
+- Summer 2019 LIN307/542 Sociolinguistics
+- Spring 2019 LIN 532 Second Language Acquisition
 - Fall 2018  WAE 194 Advanced Writing Academic English
 - Fall 2017  WAE 194 Advanced Writing Academic English
 - Spring 2017  WAE 190 Intermediate Writing Academic English
