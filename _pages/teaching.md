@@ -22,7 +22,7 @@ author_profile: true
 
 ## Teaching assistant
 
-
+- __Spring__ __2021__  LIN 101 Human Language 
 - __Spring__ __2018__  LIN 355 Language and Life in China 
 - __Summer__ __2017__  Introduction to Semantics (NYI-XV in St. Petersburg, Russia) 
 - __Fall__ __2016__  LIN 355 Language and Life in China 
