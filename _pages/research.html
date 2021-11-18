@@ -12,7 +12,6 @@ author_profile: true
 <!-- turns out one cannot mix md and html in one markdown file, those markers, I guess -->
 
 <b>> Journal Publications and Peer-Reviewed Proceedings</b>
-<hr>
 
 {% include base_path %}
 
@@ -23,7 +22,6 @@ author_profile: true
 <hr>
 
 <b>> Conference Proceedings</b>
-<hr>
 
 {% for post in site.portfolio reversed %}
   {% include archive-single.html %}
@@ -33,12 +31,11 @@ author_profile: true
 
 <b>> Presentations</b>
 
-{% if site.talkmap_link == true %}
+<!-- {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-{% endif %}
-
+{% endif %} -->
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
