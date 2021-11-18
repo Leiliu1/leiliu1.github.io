@@ -11,12 +11,20 @@ author_profile: true
 
 <!-- turns out one cannot mix md and html in one markdown file, those markers, I guess -->
 
-<b>Journal Publications</b>
+<b>Journal Publications and Peer-Reviewed Proceedings</b>
 
 {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
+{% endfor %}
+
+<hr>
+
+<b>Conference Proceedings</b>
+
+{% for post in site.proceedings reversed %}
+  {% include archive-single-talk.html %}
 {% endfor %}
 
 <hr>
