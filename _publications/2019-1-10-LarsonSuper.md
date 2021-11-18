@@ -8,4 +8,4 @@ venue: 'Linguistic Inquiry'
 ---
 
 
-[bib](/files/Superiority19.md)
+[bib:](/files/Superiority19.md)
