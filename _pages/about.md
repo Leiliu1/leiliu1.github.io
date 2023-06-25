@@ -14,7 +14,10 @@ I work on Syntax, Computational Linguistics and Chinese dialects. My interests l
 
 **News**
 
+ <font size="-2">
+
 {% for post in site.posts %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
+</font>
