@@ -1,4 +1,4 @@
---
+---
 permalink: /cyclop-archive/
 title: "Slides and Manuscripts should be online"
 excerpt: ""
