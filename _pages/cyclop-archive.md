@@ -11,8 +11,8 @@ Below is a list of output during the [CYCLOP](https://www.philol.uni-leipzig.de/
 
 __Peer-reviewed journal and conference proceedings/abstracts__
 
-- Submitted, with Greg Kobele - Formalizing Feature Inheritance
-- Submitted - Left-corner Minimalist Parsing of Mixed Word Order Preferences
+- Submitted, with Greg Kobele - [Formalizing Feature Inheritance](/files/cyclop/KobeleLiu.pdf)
+- Submitted - [Left-corner Minimalist Parsing of Mixed Word Order Preferences](/files/cyclop/Liu.pdf)
 - Under revision - [Psycholinguistic Adequacy of Left-corner Parsing for Minimalist Grammars](/files/cyclop/Leiliu-LC-1011.pdf) (manuscript)
 - Liu, L. (2024). [Psycholinguistic Adequacy of Left-corner Parsing for Minimalist Grammars](https://openpublishing.library.umass.edu/scil/article/id/2161/). _Proceedings of the Society for Computation in Linguistics (SCiL)}_, 275-280.
 - Liu, L. (2023). [Processing Advantages of End-weight](https://aclanthology.org/2023.scil-1.21/). _Proceedings of the Society for Computation in Linguistics (SCiL)_, 250-258.
