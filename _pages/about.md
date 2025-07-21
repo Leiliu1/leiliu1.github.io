@@ -16,7 +16,7 @@ I work on Syntax, Computational Linguistics and Chinese dialects. My interests l
 
  <font size="-1">
 
-{% for post in site.posts %}
+{% for post in site.posts limit:3 %}
   {% include archive-single-talk.html %}
 {% endfor %}
 

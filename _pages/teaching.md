@@ -8,6 +8,7 @@ author_profile: true
 
 ## Instructor
 
+- __Spring 2025__  Syntax 1003 (Uni Leipzig, Uebung instructor)
 - __Fall 2020__  LIN 405 Writing in Linguistics
 - __Summer 2020__  WAE 194 Advanced Writing Academic English
 - __Spring 2020__  WAE 194 Advanced Writing Academic English
@@ -15,9 +16,9 @@ author_profile: true
 - __Summer 2019__  LIN307/542 Sociolinguistics
 - __Spring 2019__  LIN 532 Second Language Acquisition
 - __Fall 2018__  WAE 194 Advanced Writing Academic English
-- __Fall2017__  WAE 194 Advanced Writing Academic English
-- __Spring2017__  WAE 190 Intermediate Writing Academic English
-- __Summer2016__  LIN 426/532 Special Topics in Linguistics: Second Language Acquisition 
+- __Fall 2017__  WAE 194 Advanced Writing Academic English
+- __Spring 2017__  WAE 190 Intermediate Writing Academic English
+- __Summer 2016__  LIN 426/532 Special Topics in Linguistics: Second Language Acquisition 
      
 
 ## Teaching assistant
