@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post-doctoral research fellow in the project __[Computational Aspects of Cyclic Optimization](https://www.philol.uni-leipzig.de/en/institute-of-linguistics/research/ru-cyclic-optimization/computational-aspects-of-cyclic-optimization)__ (PI: [Prof. Ph. D. Gregory Kobele](https://home.uni-leipzig.de/gkobele/)). 
-
-I work on Syntax, Computational Linguistics and Chinese dialects. My interests lie in the freedom of word orders. Finished projects on word order include Mandarin SOV derivation and Minimalist parsing of word order alternating phenomena in English and Mandarin Chinese. 
+I am an Assistant Professor of Linguistics in the [Department of English](https://www.csi.cuny.edu/academics-and-research/departments-programs/english) at the College of Staten Island (CSI) CUNY. Before this, I conducted [postdoctoral research](https://www.philol.uni-leipzig.de/en/institute-of-linguistics/research/ru-cyclic-optimization/computational-aspects-of-cyclic-optimization) at Leipzig University in Germany. I received my Ph.D. in Linguistics from [Stony Brook University](https://linguistics.stonybrook.edu/). My research centers on syntactic theory and computational psycholinguistics, focusing on human sentence processing through computational parsing models. 
 
 **News**
 
